@@ -1,0 +1,20 @@
+{
+	"Short_Name": "_Delay002",
+	"Long_Name": "Delay002Loop",
+	"Description": "Nealry looping delay",
+	"Creator": "Design.Thoughtz.eu",
+	"date": "2020-04-19 21:29:27 CEST",
+	"hash": "a27dbc21",
+	"parameters": [
+		{"Par#": 300 , "Value": 255} ,
+		{"Par#": 301 , "Value": 255} ,
+		{"Par#": 302 , "Value": 0} ,
+		{"Par#": 303 , "Value": 255} ,
+		{"Par#": 304 , "Value": 225} ,
+		{"Par#": 305 , "Value": 255} ,
+		{"Par#": 306 , "Value": 0} ,
+		{"Par#": 307 , "Value": 100} ,
+		{"Par#": 308 , "Value": 1} ,
+		{"Par#": 309 , "Value": 0}
+	]
+}

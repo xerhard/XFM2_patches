@@ -1,0 +1,20 @@
+{
+	"Short_Name": "_Delay 001",
+	"Long_Name": "XFM2 Delay 001",
+	"Description": "Delay preset from Jan Hammer Solo",
+	"Creator": "Design.Thoughtz.eu",
+	"date": "2020-04-17 18:41:45 CEST",
+	"hash": "d3eb4882",
+	"parameters": [
+		{"Par#": 300 , "Value": 255} ,
+		{"Par#": 301 , "Value": 110} ,
+		{"Par#": 302 , "Value": 0} ,
+		{"Par#": 303 , "Value": 50} ,
+		{"Par#": 304 , "Value": 130} ,
+		{"Par#": 305 , "Value": 255} ,
+		{"Par#": 306 , "Value": 0} ,
+		{"Par#": 307 , "Value": 100} ,
+		{"Par#": 308 , "Value": 1} ,
+		{"Par#": 309 , "Value": 0}
+	]
+}
