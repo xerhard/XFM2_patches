@@ -17,3 +17,9 @@ Other usage is to create effects presets, see **patches/effects**
 - **DX7_converted**: conversion of DX7 libraries to XFM2 patches (not foolproof yet, but often close)
 - **XFM2_1.02presets**: some presets as set in 1.02
 - **effects**: example of usage subset of parameters 
+
+
+## Remarks
+
+### hash
+hash field is used as fingerprint, while the XFM2 does not have an option to save patch names, the hashes can be used to recognise (sub-)patches.
