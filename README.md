@@ -10,3 +10,10 @@ Second interesting use is you could only put a selection of the  parameters in a
 
 In the **patches/DX7_algorithms** folder you find the patches to set the operators according the 32 DX7 algorithms.
 Other usage is to create effects presets, see **patches/effects**
+
+## patches overview
+
+- **DX7_algorithms**:  settings to mimic 32 DX7 algorithms
+- **DX7_converted**: conversion of DX7 libraries to XFM2 patches (not foolproof yet, but often close)
+- **XFM2_1.02presets**: some presets as set in 1.02
+- **effects**: example of usage subset of parameters 
