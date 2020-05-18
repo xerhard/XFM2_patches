@@ -13,6 +13,7 @@ Other usage is to create effects presets, see **patches/effects**
 
 ## patches overview
 
+- **DX7.syx**: DX7 presets used for creation of DX7_Converted
 - **DX7_algorithms**:  settings to mimic 32 DX7 algorithms
 - **DX7_converted**: conversion of DX7 libraries to XFM2 patches (not foolproof yet, but often close)
 - **XFM2_1.02presets**: some presets as set in 1.02
