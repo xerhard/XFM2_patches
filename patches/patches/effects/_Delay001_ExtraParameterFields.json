@@ -1,0 +1,20 @@
+{
+	"Short_Name": "_Delay 001",
+	"Long_Name": "XFM2 Delay 001",
+	"Description": "Delay preset from Jan Hammer Solo",
+	"Creator": "Design.Thoughtz.eu",
+	"date": "2020-04-17 18:41:45 CEST",
+	"hash": "d3eb4882",
+	"parameters": [
+		{"Par#": 300 , "Value": 255, "min":0, "max": 255, "descr": "DRY level"} ,
+		{"Par#": 301 , "Value": 110, "min":0, "max": 255, "descr": "WET level"} ,
+		{"Par#": 302 , "Value": 0, "min":0, "max": 2, "descr": "MODE 0=Stereo 1=Cross 2=Bounce"} ,
+		{"Par#": 303 , "Value": 50, "min":0, "max": 255, "descr": "TIME , when 0 as TEMPO"} ,
+		{"Par#": 304 , "Value": 130, "min":0, "max": 255, "descr": "FEEDBACK"} ,
+		{"Par#": 305 , "Value": 255, "min":0, "max": 255, "descr": "LO lpf freq response"} ,
+		{"Par#": 306 , "Value": 0, "min":0, "max": 255, "descr": "HI hpf freq response"} ,
+		{"Par#": 307 , "Value": 100, "min":50, "max": 255, "descr": "TEMPO"} ,
+		{"Par#": 308 , "Value": 1, "min":0, "max": 255, "descr": "MUL multiplyer for delay tempo"} ,
+		{"Par#": 309 , "Value": 0, "min":0, "max": 255, "descr": "DIV divider for delay temp0"}
+	]
+}
