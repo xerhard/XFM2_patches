@@ -29,15 +29,16 @@ Source code of the hash algorithm can be found on [link to original source of ja
 
 Code snippet can easily be converted to any other programming language:
 
-	public static int hashCode(long a[]) {
-	        if (a == null)
-	            return 0;
-	
-	        int result = 1;
-	        for (long element : a) {
-	            int elementHash = (int)(element ^ (element >>> 32));
-	            result = 31 * result + elementHash;
-	        }
+	public static int hashCode(int a[]) {
+        if (a == null)
+            return 0;
+
+        int result = 1;
+        for (int element : a)
+            result = 31 * result + element;
+
+        return result;
+    }
 	
 	        return result;
 	    }
